@@ -1,0 +1,14 @@
+C:\Users\Dell\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\Dell\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\Dell\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\Dell\source\repos\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\Dell\source\repos\Game\Game\obj\Debug\Game.pdb
+C:\Users\joparasata\Desktop\Csharp\Lessons\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\joparasata\Desktop\Csharp\Lessons\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\joparasata\Desktop\Csharp\Lessons\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\joparasata\Desktop\Csharp\Lessons\repos\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\joparasata\Desktop\Csharp\Lessons\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\joparasata\Desktop\Csharp\Lessons\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\joparasata\Desktop\Csharp\Lessons\repos\Game\Game\obj\Debug\Game.pdb
